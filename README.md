@@ -33,4 +33,4 @@ The generated XML provides the following details:
 
 ## Example
 
-### Input (Hand History):
+
