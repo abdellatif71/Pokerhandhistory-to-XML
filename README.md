@@ -31,6 +31,6 @@ The generated XML provides the following details:
 - Winning player and pot amount
 - Actions during the hand (e.g., folds, calls, raises)
 
-
+## Example
 
 ### Input (Hand History):
