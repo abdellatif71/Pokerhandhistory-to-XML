@@ -2,7 +2,7 @@
 
 The **Poker Hand History to XML Converter** is a web-based tool that converts poker hand history logs into a structured XML format. This tool simplifies parsing and analyzing poker hand data for developers, analysts, and poker enthusiasts.
 
-
+## Features
 
 - **Hand History Input**: Paste poker hand history logs into the input field.
 - **Convert to XML**: Automatically parses the hand history and generates an XML representation.
