@@ -12,11 +12,7 @@ The **Poker Hand History to XML Converter** is a web-based tool that converts po
 
 ## Usage
 
-1. Open the application in your browser.
-2. Paste the hand history log into the **"Enter Hand History"** text area.
-3. Click the **"Konvertieren"** button to generate the XML output.
-4. Use the **"Kopieren"** button to copy the XML to your clipboard.
-5. To start over, click the **"Löschen"** button.
+
 
 ## XML Output Format
 
